@@ -10,5 +10,10 @@ Here is.. blablablal
 - [Deep Learning](#deep-learning)
 - [NLP/ apaa kek]
 
-### **Machine Learning**
-### **Deep Learning**
+### Machine Learning
+
+|Project|Date|Tools|Description|
+|---|---|---|---|
+|Credit Score Prediction|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat|
+
+### Deep Learning
