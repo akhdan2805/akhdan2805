@@ -6,3 +6,9 @@ I'm a **Data Science student at BINUS University** passionate about **Machine Le
 Here is.. blablablal
 
 ### Table of Content
+- [Mahcine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [NLP/ apaa kek]
+
+### **Machine Learning**
+### **Deep Learning**
