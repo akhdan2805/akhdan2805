@@ -31,6 +31,6 @@ Some highlights of my projects and work across different areas of data and techn
 
 ## 💬 Connect With Me:
 
-- 🌐 LinkedIn: [Akhdan Athallah](https://www.linkedin.com/in/muhammad-akhdan-athallah-41b248326)
-- ✉️ Email: akhdan2805@gmail.com
-- 📷 Instagram: [@akhdanathallah](https://www.instagram.com/akhdanathallah/)
+- 🌐 **LinkedIn:** [Akhdan Athallah](https://www.linkedin.com/in/muhammad-akhdan-athallah-41b248326)
+- ✉️ **Email:** akhdan2805@gmail.com
+- 📷 **Instagram:** [@akhdanathallah](https://www.instagram.com/akhdanathallah/)
