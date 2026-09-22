@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Akhdan Athallah 👋
 
-I'm a **Data Science student at BINUS University** passionate about **Machine Learning, Deep Learning, and Natural Language Processing**. I enjoy exploring data, developing predictive models, and building practical machine learning solutions from experimentation to deployment.
+I'm a **Data Science student at BINUS University** passionate about **data, technology, and problem solving**. I enjoy exploring data, building data-driven solutions, and turning ideas into practical projects that address real-world problems.
 
 ## 🗺️ My Portofolio Project
 
@@ -9,7 +9,7 @@ Some highlights of my projects and work across different areas of data and techn
 ### 📚 Table of Contents
 - [Mahcine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
-- [NLP/ apaa kek]
+- [Text Mining](#text-mining)
 
 ## Machine Learning
 
@@ -23,7 +23,7 @@ Some highlights of my projects and work across different areas of data and techn
 |---|---|---|---|
 |🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
 
-## EN EL PI
+## Text Mining
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
