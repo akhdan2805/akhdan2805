@@ -30,6 +30,6 @@ Here is.. blablablal
 
 ## 💬 Connect With Me:
 
-- Email: akhdan2805@gmail.com
 - LinkedIn:
+- Email: akhdan2805@gmail.com
 - Instagram:
