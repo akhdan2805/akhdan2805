@@ -4,7 +4,7 @@ I'm a **Data Science student at BINUS University** passionate about **Machine Le
 
 ## 🗺️ My Portofolio Project
 
-This section highlights some of my projects and work across different areas of data and technology:
+Some highlights of my projects and work across different areas of data and technology:
 
 ### 📚 Table of Contents
 - [Mahcine Learning](#machine-learning)
