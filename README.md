@@ -27,7 +27,7 @@ Some highlights of my projects and work across different areas of data and techn
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
-|Coming Soon...|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
+|TBD|TBD|TBD|TBD|
 
 ## 💬 Connect With Me:
 
