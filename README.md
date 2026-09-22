@@ -21,7 +21,7 @@ Some highlights of my projects and work across different areas of data and techn
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
-|🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|12 Juni 2026|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
+|🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|12 Juni 2026|Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy.|Deep learning project for classifying natural disaster images using CNN and EfficientNetB1, with data preprocessing, model experimentation, and evaluation.|
 
 ## Text Mining
 
