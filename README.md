@@ -15,13 +15,13 @@ Some highlights of my projects and work across different areas of data and techn
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
-|💳 [Credit Risk](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
+|💳 [Credit Risk](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|21 April 2026|Python, Pandas, NumPy, Scikit-learn, LightGBM, Streamlit.|End-to-end machine learning project for credit risk classification, covering data preprocessing, model experimentation, model selection, and Streamlit deployment.|
 
 ## Deep Learning
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
-|🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
+|🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|12 Juni 2026|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
 
 ## Text Mining
 
