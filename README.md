@@ -17,3 +17,7 @@ Here is.. blablablal
 |💳 [Credit Risk](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
 
 ## Deep Learning
+
+|Project Link|Completion Date|Tools|Project Description|
+|---|---|---|---|
+|🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
