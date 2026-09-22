@@ -14,6 +14,6 @@ Here is.. blablablal
 
 |Project|Date|Tools|Description|
 |---|---|---|---|
-|[Credit Risk Classification](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
+|💳 [Credit Risk Classification](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
 
 ### Deep Learning
