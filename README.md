@@ -2,7 +2,7 @@
 
 I'm a **Data Science student at BINUS University** passionate about **Machine Learning, Deep Learning, and Natural Language Processing**. I enjoy exploring data, developing predictive models, and building practical machine learning solutions from experimentation to deployment.
 
-## 🗺️ My Portofolio Project
+# 🗺️ My Portofolio Project
 Here is.. blablablal
 
 ### 📚 Table of Contents
@@ -21,3 +21,11 @@ Here is.. blablablal
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
 |🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
+
+## EN EL PI
+
+|Project Link|Completion Date|Tools|Project Description|
+|---|---|---|---|
+|Coming Soon...|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
+
+## .
