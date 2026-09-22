@@ -10,10 +10,10 @@ Here is.. blablablal
 - [Deep Learning](#deep-learning)
 - [NLP/ apaa kek]
 
-### Machine Learning
+## Machine Learning
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
 |💳 [Credit Risk](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
 
-### Deep Learning
+## Deep Learning
