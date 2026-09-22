@@ -30,6 +30,6 @@ Here is.. blablablal
 
 ## 💬 Connect With Me:
 
-- LinkedIn:
+- LinkedIn: [Akhdan Athallah](https://www.linkedin.com/in/muhammad-akhdan-athallah-41b248326)
 - Email: akhdan2805@gmail.com
-- Instagram:
+- Instagram: [@akhdanathallah](https://l.instagram.com/?u=https%3A%2F%2Fwww.tiktok.com%2F%40akhdanmlbb%3F_t%3D8mbswk6Emhj%26_r%3D1%26fbclid%3DPAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAacn9lL27VoAJHUyiWWKNQBgbAzZ4bDQm4fg3IpI2ls1lHplaEt2zhTuFv1owg_aem_wcgYoJXeGXabhbygWUksGw&e=AUCHXN-SkNvKa75EmprzF6ooI8muQRWad0jESTC9_bHzsrxAiAujQmjtNuXQPX4Ez654ReG7xEpjfmZQSatcrl9EFZ64FfbqZvGtJlcOf877In0Jogb5ELY7nIYItFXXtvW-KHVDUF9Uq7WKacANDKg)
