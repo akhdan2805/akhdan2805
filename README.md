@@ -5,15 +5,15 @@ I'm a **Data Science student at BINUS University** passionate about **Machine Le
 ## 🗺️ My Portofolio Project
 Here is.. blablablal
 
-### Table of Content
+### 📚 Table of Contents
 - [Mahcine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
 - [NLP/ apaa kek]
 
 ### Machine Learning
 
-|Project|Date|Tools|Description|
+|Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
-|💳 [Credit Risk Classification](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
+|💳 [Credit Risk](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|99 Mei 2999|Python, ddhdwa, fjaa|Project hebat afuafhuahf hh whffiha hih wfha hwhfiwhifh hfwihfwhfahf fhwafhawihfih fhawh ifhwaifhiaw fhwahfahf|
 
 ### Deep Learning
