@@ -2,7 +2,7 @@
 
 I'm a **Data Science student at BINUS University** passionate about **data, technology, and problem solving**. I enjoy exploring data, building data-driven solutions, and turning ideas into practical projects that address real-world problems.
 
-## 🗺️ My Portofolio Project
+## 🗺️ My Portofolio Projects
 
 Some highlights of my projects and work across different areas of data and technology:
 
