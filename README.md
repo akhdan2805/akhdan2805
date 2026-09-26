@@ -23,7 +23,7 @@ Some highlights of my projects and work across different areas of data and techn
 |---|---|---|---|
 |🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|12 Juni 2026|Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy.|Deep learning project for classifying natural disaster images using CNN and EfficientNetB1, with data preprocessing, model experimentation, and evaluation.|
 |---|---|---|---|
-|
+| 📈 [Stock Price Forecasting](https://github.com/akhdan2805/stock-price-forecasting-lstm) | 26 September 2026 | Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib | LSTM-based time series forecasting project for predicting AAPL and AMD stock closing prices, comparing baseline and modified architectures using MAE, RMSE, MAPE, and R². |
 
 ## Text Mining
 
