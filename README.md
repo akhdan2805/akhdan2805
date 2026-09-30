@@ -22,13 +22,13 @@ Some highlights of my projects and work across different areas of data and techn
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
 |🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|12 June 2026|Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy.|Deep learning project for classifying natural disaster images using CNN and EfficientNetB1, with data preprocessing, model experimentation, and evaluation.|
-|📈 [Stock Price Forecasting](https://github.com/akhdan2805/stock-price-forecasting-lstm) | 28 June 2026 | Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib | LSTM-based time series forecasting project for predicting AAPL and AMD stock closing prices, comparing baseline and modified architectures using MAE, RMSE, MAPE, and R². |
+|📈 [Stock Price Forecasting](https://github.com/akhdan2805/stock-price-forecasting-lstm) | 28 June 2026 | Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib | LSTM-based time series forecasting project for predicting AAPL and AMD stock closing prices, comparing baseline and modified architectures using MAE, RMSE, MAPE, and R².|
 
 ## Text Mining
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
-|TBD|TBD|TBD|TBD|
+|🐦 [Twitter Sentiment Classification](https://github.com/akhdan2805/twitter-sentiment-classification)||Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, WordCloud|Machine learning project for classifying Twitter sentiment into Negative, Neutral, and Positive, with a focus on improving Negative Recall using TF-IDF, LinearSVC, and Logistic Regression.|
 
 ## 💬 Connect With Me:
 
