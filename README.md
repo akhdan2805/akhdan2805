@@ -28,7 +28,7 @@ Some highlights of my projects and work across different areas of data and techn
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
-|🐦 [Twitter Sentiment Classification](https://github.com/akhdan2805/twitter-sentiment-classification)||Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, WordCloud|Machine learning project for classifying Twitter sentiment into Negative, Neutral, and Positive, with a focus on improving Negative Recall using TF-IDF, LinearSVC, and Logistic Regression.|
+|🐦 [Twitter Sentiment Classification](https://github.com/akhdan2805/twitter-sentiment-classification)||Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, WordCloud|Text mining project for classifying Twitter sentiment into Negative, Neutral, and Positive categories using TF-IDF and machine learning models, with a focus on Negative Recall.|
 
 ## 💬 Connect With Me:
 
