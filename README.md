@@ -6,28 +6,13 @@ I'm a **Data Science student at BINUS University** passionate about **data, tech
 
 Some highlights of my projects and work across different areas of data and technology:
 
-### 📚 Table of Contents
-- [Mahcine Learning](#machine-learning)
-- [Deep Learning](#deep-learning)
-- [Text Mining](#text-mining)
-
-## Machine Learning
+## Project
 
 |Project Link|Completion Date|Tools|Project Description|
 |---|---|---|---|
 |💳 [Credit Risk](https://github.com/akhdan2805/credit-risk-prediction-local-deployment)|21 April 2026|Python, Pandas, NumPy, Scikit-learn, LightGBM, Streamlit.|End-to-end machine learning project for credit risk classification, covering data preprocessing, model experimentation, model selection, and Streamlit deployment.|
-
-## Deep Learning
-
-|Project Link|Completion Date|Tools|Project Description|
-|---|---|---|---|
 |🌪️ [Natural Disaster](https://github.com/akhdan2805/natural-disaster-image-classification)|12 June 2026|Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy.|Deep learning project for classifying natural disaster images using CNN and EfficientNetB1, with data preprocessing, model experimentation, and evaluation.|
 |📈 [Stock Price Forecasting](https://github.com/akhdan2805/stock-price-forecasting-lstm) | 28 June 2026 | Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib | LSTM-based time series forecasting project for predicting AAPL and AMD stock closing prices, comparing baseline and modified architectures using MAE, RMSE, MAPE, and R².|
-
-## Text Mining
-
-|Project Link|Completion Date|Tools|Project Description|
-|---|---|---|---|
 |🐦 [Twitter Sentiment Classification](https://github.com/akhdan2805/twitter-sentiment-classification)|26 September 2026|Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, WordCloud|Text mining project for classifying Twitter sentiment into Negative, Neutral, and Positive categories using TF-IDF and machine learning models, with a focus on Negative Recall.|
 
 ## 💬 Connect With Me:
